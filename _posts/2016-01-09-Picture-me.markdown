@@ -5,17 +5,66 @@ date:   2016-01-09 13:38:46 +0000
 
 categories: Portfolio
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![image](https://github.com/enerjay/picture-me-frontend/blob/master/images/picture-me-logo-small.png)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[Picture Me link](http://enerjay.github.io/picture-me-frontend/)
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+####Vision for my Site
+
+I am unique person built up of many layers - images, We live our lives with snap shots of of our life past and present - emotion, love and pain. 
+All the images will make a complete portrait of the user - you will only see the image when you hover a section of the face. This is the same as an interaction in life with someone you don't know, you don;t necessarily see the joy and pain. It's only by chatting that you shed light on an experiemce which in turn reveals an image. We are made up of many pictures. The final piece with contain all the visuals that make us unique.
+
+
+####User Stories
+
+- A user will be able to login via Facebook
+- A user's facebook profile picture will be used as the main image in the grid.
+- A user is able to select 25 x meaningful pictures from there computer to be placed on the grid
+- A user is able to delete there Picture me in order to start again.
+
+
+####Achievements
+
+
+
+
+
+####Aims for the future
+- A user would be able to select the 25 images from their facebook account
+- A user will have the ability to share the finished image
+
+
+
+####App was built using the following:
+
+######MEAN Stack
+- Mongo
+- Express
+- Angular
+- Node
+- Facebook auth using satellizer
+- NgFileUpload
+- AWS
+- HTML5
+- CSS3
+- Skeleton CSS3 grid framework
+- JQuery
+- JQuery Masonry
+
+####Wireframes
+
+![image](https://github.com/enerjay/picture-me-frontend/blob/master/images/wireframe.png)
+
+[Wireframes pdf](https://github.com/enerjay/picture-me-frontend/blob/master/wireframes-final.pdf)
+
+
+####Final Product
+
+![image](https://github.com/enerjay/picture-me-frontend/blob/master/images/screen.png)
+
+
+
+
+
 

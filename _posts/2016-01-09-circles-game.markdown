@@ -4,17 +4,45 @@ title:  "Circles Game"
 date:   2016-01-09 14:38:46 +0000
 categories: Portfolio
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![image](https://github.com/enerjay/WDI_Project1/blob/master/images/colour_game_logo_small.png)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+http://calm-gorge-4445.herokuapp.com/
 
-Jekyll also offers powerful support for code snippets:
+This is a game that is completely visual where the computer displays a few different circles in different colours in a sequence and gives a player a few seconds to memorise. Then the player has to click the grid showing the exact position of the circles and the exact order.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+####order of play
+
+1. computer displays some random circles in a grid for a few seconds
+
+2. player has to click on the exact position of the circle and the corect order of how the computer displayed the colour.
+
+3. If the player clicks on the correct circle sequence they get a point.
+
+4. If they don't the computer gets a point.
+
+5. The first to get 10pts wins the game. 
+
+###conditions and aims 
+- the colour circles will be held in a container/ grid 5 by 5. The colours randomely change each turn so that is is more difficult for the player to memorise.The grid will have faint lines through out the game so that the player can see the possible positions to click.
+
+###Design
+The game will be very colourful visually however the grid will be on a white background so that the colours really stand out from the page. The logo will be the only other dominant visual presence. The counter will also be very simple and located at the bottom of the page. I would like to create a second page outlining the instructions.   
+
+
+###In the future I would like to
+- create a series of vector drawings for the circles to make it more visually interesting  - they could be funny faces for example.
+- possibility of also using sound effects for the circles. 
+
+###Who is the game aimed for?
+- It would appeal to all ages and genders.
+
+###Build using
+
+- Javascript
+- Jquery
+- HTML5
+- CSS3
+- logos and artwork created in Adobe Illustrator 
+
+![image](https://github.com/enerjay/WDI_Project1/blob/master/images/screen.png)
 
