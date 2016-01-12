@@ -5,7 +5,7 @@ date:   2016-01-09 13:38:46 +0000
 
 categories: Portfolio
 ---
-![image](https://github.com/enerjay/picture-me-frontend/blob/master/images/picture-me-logo-small.png)
+![image](http://enerjay.github.io/img/picture-me-logo-small.png)
 
 [Picture Me link](http://enerjay.github.io/picture-me-frontend/)
 
@@ -54,14 +54,12 @@ All the images will make a complete portrait of the user - you will only see the
 
 ####Wireframes
 
-![image](https://github.com/enerjay/picture-me-frontend/blob/master/images/wireframe.png)
-
-[Wireframes pdf](https://github.com/enerjay/picture-me-frontend/blob/master/wireframes-final.pdf)
+![image](http://enerjay.github.io/img/pm_wireframe.png)
 
 
 ####Final Product
 
-![image](https://github.com/enerjay/picture-me-frontend/blob/master/images/screen.png)
+![image](http://enerjay.github.io/img/pm_screen.png)
 
 
 
