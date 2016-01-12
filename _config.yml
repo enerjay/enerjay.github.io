@@ -17,12 +17,8 @@ github_username: enerjay
 linkedin_username: jhepburnzikalala
 social: 
     github: enerjay
-<<<<<<< HEAD
+
     linkedin: jhepburnzikalala
 
-=======
-    linkenin: jhepburnzikalala
-    
->>>>>>> master
 # Build settings
 markdown: kramdown
