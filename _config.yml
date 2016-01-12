@@ -14,9 +14,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://enerjay.github.io" # the base hostname & protocol for your site
 
 github_username: enerjay
+linkedin_username: jhepburnzikalala
 social: 
     github: enerjay
+<<<<<<< HEAD
     linkedin: jhepburnzikalala
 
+=======
+    linkenin: jhepburnzikalala
+    
+>>>>>>> master
 # Build settings
 markdown: kramdown
