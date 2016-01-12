@@ -46,10 +46,10 @@ Artists can signup, create a profile and then are able to upload projects - work
 ![image](http://enerjay.github.io/img/Musart_wrieframes.png)
 
 ####ER diagram
-![image](http://enerjay.github.io/img/wireframes_er_diagram/Musart_ER.png)
+![image](http://enerjay.github.io/img/Musart_ER.png)
 
 ####Login screen
-![image](http://enerjay.github.io/img/images/login.png)
+![image](http://enerjay.github.io/img/login.png)
 
 
 
