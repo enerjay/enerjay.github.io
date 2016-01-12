@@ -4,7 +4,7 @@ title:  "Musart"
 date:   2016-01-09 14:38:46 +0000
 categories: Portfolio
 ---
-![image](http://enerjay.github.io/img/screen.png)
+![image](http://enerjay.github.io/img/musart-screen.png)
 
 [Musart link](http://musart.herokuapp.com/)
 
@@ -43,13 +43,13 @@ Artists can signup, create a profile and then are able to upload projects - work
 
 ####Wireframes
 
-![image](https://github.com/enerjay/WDI_project2/blob/master/images/Musart_wrieframes.png)
+![image](http://enerjay.github.io/img/Musart_wrieframes.png)
 
 ####ER diagram
-![image](https://github.com/enerjay/WDI_project2/blob/master/wireframes_er_diagram/Musart_ER.png)
+![image](http://enerjay.github.io/img/wireframes_er_diagram/Musart_ER.png)
 
 ####Login screen
-![image](https://github.com/enerjay/WDI_project2/blob/master/images/login.png)
+![image](http://enerjay.github.io/img/images/login.png)
 
 
 

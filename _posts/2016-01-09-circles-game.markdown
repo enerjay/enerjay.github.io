@@ -4,7 +4,7 @@ title:  "Circles Game"
 date:   2016-01-09 14:38:46 +0000
 categories: Portfolio
 ---
-![image](https://github.com/enerjay/WDI_Project1/blob/master/images/colour_game_logo_small.png)
+![image](http://enerjay.github.io/img/colour_game_logo_small.png)
 
 http://calm-gorge-4445.herokuapp.com/
 
@@ -44,5 +44,5 @@ The game will be very colourful visually however the grid will be on a white bac
 - CSS3
 - logos and artwork created in Adobe Illustrator 
 
-![image](https://github.com/enerjay/WDI_Project1/blob/master/images/screen.png)
+![image](http://enerjay.github.io/img/screen.png)
 
