@@ -99,8 +99,13 @@ a {
     }
 
     &:hover {
+<<<<<<< HEAD
         color: lighten($brand-color, 15%);
         text-decoration: none;
+=======
+        color: lighten($brand-color, 20%);
+        text-decoration: underline;
+>>>>>>> master
     }
 }
 

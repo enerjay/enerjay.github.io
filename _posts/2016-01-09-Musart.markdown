@@ -4,17 +4,71 @@ title:  "Musart"
 date:   2016-01-09 14:38:46 +0000
 categories: Portfolio
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![image](http://enerjay.github.io/img/screen.png)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[Musart link](http://musart.herokuapp.com/)
 
-Jekyll also offers powerful support for code snippets:
+This is a site developed to build an online community of artists who work with visuals and sound primarily using sound as a focus in the work. I am foocusing on work in the following categories:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+- Experimental
+- Video Mapping
+- Drawn on Film
+- Figurative
+- 3D
+
+####This site will focus on:
+
+Artists who work with visuals and sound and deliver to the following range of enviorments: 
+
+- Installation
+- Video Art
+- Music Festival
+- Performance
+- Music Video
+- Dev art
+
+####This site is built using the following tools:
+
+1. Ruby on Rails as the back end framework
+2. Carrierwave gem for uploading images
+3. Devise for login
+3. Ransack gem for searching
+4. Act as votable gem for liking projects
+5. Elements from Bootstrap CSS framwork
+6. Custom CSS3
+
+
+####User Story
+Artists can signup, create a profile and then are able to upload projects - work they have done. They can write information about the project embed videos and upload stills. Once you are a member of the community you can view other artists work and view there profiles for networking, collaberating purposes. Please see my preparation work including tables and wireframes.
+
+####Wireframes
+
+![image](https://github.com/enerjay/WDI_project2/blob/master/images/Musart_wrieframes.png)
+
+####ER diagram
+![image](https://github.com/enerjay/WDI_project2/blob/master/wireframes_er_diagram/Musart_ER.png)
+
+####Login screen
+![image](https://github.com/enerjay/WDI_project2/blob/master/images/login.png)
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
