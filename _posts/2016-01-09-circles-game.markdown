@@ -6,7 +6,7 @@ categories: Portfolio
 ---
 ![image](http://enerjay.github.io/img/colour_game_logo_small.png)
 
-http://calm-gorge-4445.herokuapp.com/
+[Circles Game link](http://calm-gorge-4445.herokuapp.com/)
 
 This is a game that is completely visual where the computer displays a few different circles in different colours in a sequence and gives a player a few seconds to memorise. Then the player has to click the grid showing the exact position of the circles and the exact order.
 

@@ -5,6 +5,9 @@ date:   2016-01-09 14:38:46 +0000
 
 categories: Portfolio
 ---
+![image](http://enerjay.github.io/img/cycle-white.png)
+
+[Cycle Hub link](http://panox.github.io/cyclevision/)
 Cycle hub began as a project for WDI 16, it is a place for cyclists to share their experiences off and on their bikes with a community that understands their passion.
 
 The creators are Alice Dunn, Jayne Hepburn, Kashif Javaid and 
@@ -73,7 +76,7 @@ The final screen shots are below:
 
 ![image](http://i.imgur.com/MOmUKqi.png)
 
-![image](http://i.imgur.com/DNekBg5.png)
 
-![image](http://i.imgur.com/1nCu1nq.png)
+
+
 
