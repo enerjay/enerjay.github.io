@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "CenturyGothic";
+$base-font-family: "CenturyGothic", sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
@@ -16,7 +16,7 @@ $spacing-unit:     30px;
 
 $text-color:       grey;
 $background-color: white;
-$brand-color:      #006532;
+$brand-color:      #003333;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

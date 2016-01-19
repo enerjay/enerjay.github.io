@@ -91,16 +91,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: grey;
+    color: #b2c1c1;
     text-decoration: none;
 
     &:visited {
-        color: lighten($brand-color, 5%);
+        color: #4c7070;
     }
 
     &:hover {
-        color: lighten($brand-color, 20%);
-        text-decoration: underline;
+        color: #4c7070;
+        text-decoration: none;
     }
 }
 
@@ -162,6 +162,7 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+    padding-bottom: 20px; 
     @extend %clearfix;
 
     @include media-query($on-laptop) {

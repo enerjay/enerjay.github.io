@@ -22,7 +22,7 @@
     letter-spacing: 2px;
    
     margin-bottom: 20;
-    margin-top: 40px;
+    margin-top: 20px;
     text-decoration: none;
     float: left;
 
@@ -33,14 +33,14 @@
     }
     &:hover {
         text-decoration: none;
-        color: #3aa935;
+        color: #b2c1c1;
 
     }
 }
 .masthead {
     
     background-image: url("../img/mast.png");
-    width: 100%;
+    max-width: 100%;
     height: 60px;
     margin-top: 5px;
     background-repeat: no-repeat;
