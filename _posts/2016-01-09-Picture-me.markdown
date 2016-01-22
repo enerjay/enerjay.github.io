@@ -2,7 +2,6 @@
 layout: post
 title:  "Picture Me"
 date:   2016-01-09 13:38:46 +0000
-
 categories: Developer
 img: picture.png
 ---
