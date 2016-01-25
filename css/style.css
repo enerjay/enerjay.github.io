@@ -111,7 +111,7 @@ body { font-family: sans-serif; }
   width: 500px;
   height: 500px;
   background-color: transparent;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   background-image: url('/img/logo.png');
   position: absolute;
   background-repeat:no-repeat;
