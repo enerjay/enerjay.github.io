@@ -19,18 +19,18 @@ h1 {
    background-color: white;
 }
 
-/*@media (min-width: 300px) {
+@media (min-width: 300px) {
   .container {
     min-width: 400px;
   }
   .grid-item {
-      height: 50px;
-      max-width: 50px;
+      max-height: 100px;
+      max-width: 100%;
       overflow: hidden;
       
 
   }
-}*/
+}
 
 #nav {
  margin: 0 0 0 0;
