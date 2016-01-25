@@ -109,11 +109,11 @@ body { font-family: sans-serif; }
 }
 .grid {
   width: 500px;
-  max-height: 500px;
+  height: 500px;
   background-color: transparent;
   margin: 0 auto;
   background-image: url('/img/logo.png');
-  /*position: absolute;*/
+  position: absolute;
   background-repeat:no-repeat;
   background-size:contain;
   background-position:center; 
