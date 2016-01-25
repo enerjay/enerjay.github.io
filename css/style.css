@@ -134,7 +134,7 @@ body { font-family: sans-serif; }
   overflow: hidden;
   transition: visibility 4s 4s, opacity 4s linear;
   /*border: 1px solid ghostwhite;*/
-  size:contain;
+  background-size:contain;
   background-position:center;
   
 }
