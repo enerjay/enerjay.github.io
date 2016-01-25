@@ -108,7 +108,7 @@ body { font-family: sans-serif; }
   
 }
 .grid {
-  max-width: 500px;
+  width: 500px;
   max-height: 500px;
   background-color: transparent;
   margin: 0 auto;
@@ -134,7 +134,7 @@ body { font-family: sans-serif; }
   overflow: hidden;
   transition: visibility 4s 4s, opacity 4s linear;
   /*border: 1px solid ghostwhite;*/
-  background-size:contain;
+  size:contain;
   background-position:center;
   
 }
