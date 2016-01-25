@@ -70,8 +70,8 @@ h1 {
 }
 
 .img_grid {
-  max-height: 200px;
-  max-width: 200px; 
+  max-height: 100px;
+  max-width: 100px; 
 }
 .opacity {
   opacity: 0.2;
@@ -109,17 +109,18 @@ body { font-family: sans-serif; }
 }
 .grid {
   width: 500px;
-  height: 500px;
+  max-height: 500px;
   background-color: transparent;
-  /*margin: 0 auto;*/
-  background-image: url('/img/logo.png');
-  position: absolute;
+  margin: 0 auto;
+  background-image: url('/img/grid/logo_grid.png'); 
+
+  position: relative;
   background-repeat:no-repeat;
   background-size:contain;
   background-position:center; 
 }
 .btn_small {
-  height: 100px;
+  height: 50px;
   max-width: 100px;
   margin: 0 auto;
   padding: 10px;
@@ -132,6 +133,7 @@ body { font-family: sans-serif; }
   max-height: 100px;
   max-width: 100px;
   overflow: hidden;
+  border-radius: 20px;
   transition: visibility 4s 4s, opacity 4s linear;
   /*border: 1px solid ghostwhite;*/
   size:contain;
