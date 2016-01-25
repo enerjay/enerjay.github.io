@@ -112,8 +112,8 @@ body { font-family: sans-serif; }
   max-height: 500px;
   background-color: transparent;
   margin: 0 auto;
-  background-image: url();
-  position: absolute;
+  background-image: url('/img/logo.png');
+  /*position: absolute;*/
   background-repeat:no-repeat;
   background-size:contain;
   background-position:center; 
@@ -129,7 +129,7 @@ body { font-family: sans-serif; }
   margin-top: 20px;
 }
 .grid-item {
-  height: 100px;
+  max-height: 100px;
   max-width: 100px;
   overflow: hidden;
   transition: visibility 4s 4s, opacity 4s linear;
@@ -138,7 +138,7 @@ body { font-family: sans-serif; }
   background-position:center;
   
 }
-.grid-item:active { 
+.grid-item:hover { 
   overflow: visible;
   border: 0px solid ghostwhite;
   max-height: 300px;
