@@ -2,8 +2,9 @@ $(document).ready( function() {
 
   $('.grid').masonry({
     itemSelector: '.grid-item',
-    columnWidth:  5
-  });
+    columnWidth:  100
+    });
   
-});
+
+    });
 
