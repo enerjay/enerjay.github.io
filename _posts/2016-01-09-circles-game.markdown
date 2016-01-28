@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Circles Game"
 date:   2016-01-09 14:38:46 +0000
 categories: Developer

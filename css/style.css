@@ -1,6 +1,6 @@
 body {
-  background-color: white;
-  /*background-image: url('../images/bck-repeat4.png');*/
+  background-color: black;
+ 
   height:100%;
   background-size: 5px 5px;
 }
@@ -32,7 +32,7 @@ h1 {
   }
 }
 
-#nav {
+/*#nav {
  margin: 0 0 0 0;
 }
  
@@ -56,18 +56,10 @@ h1 {
   float: right;
 }
 
-.grey_line {
-  display: block;
-  width: 100%;
-  margin-bottom: 20px;
-  border-bottom: 1px solid red;
-  border-top: 5px solid #ccc;
-  padding: 0;
-}
 
 .logo {
   width: 100px;
-}
+}*/
 
 .img_grid {
   max-height: 100px;
@@ -77,14 +69,6 @@ h1 {
   opacity: 0.2;
   
 }
-
-/*.face {
-  height:500px;
-  width: 500px;
-  background-image: url('/images/me.jpg');
-  position: absolute;
-}*/
-
 
 * {
   -webkit-box-sizing: border-box;
@@ -107,6 +91,18 @@ body { font-family: sans-serif; }
   transition: 5s ease-out;
   
 }
+.img-bigger:hover{
+ 
+  -webkit-transform: scale(2.5);
+  -moz-transform: scale(2.5);
+  -ms-transform: scale(2.5);
+  -o-transform: scale(2.5);
+  transform: scale(2.5);
+  
+  transition: 8s ease-in;
+  transition: 8s ease-out;
+  
+}
 .grid {
   width: 500px;
   max-height: 500px;
@@ -118,16 +114,6 @@ body { font-family: sans-serif; }
   background-repeat:no-repeat;
   background-size:contain;
   background-position:center; 
-}
-.btn_small {
-  height: 50px;
-  max-width: 100px;
-  margin: 0 auto;
-  padding: 10px;
-  text-align: center;
-  background-image: url('../images/submit-big.png');
-  background-size: cover;
-  margin-top: 20px;
 }
 .grid-item {
   max-height: 100px;
@@ -156,148 +142,6 @@ body { font-family: sans-serif; }
   .grid-item--height3 { height: 260px; }
   .grid-item--height4 { height: 360px; }
 
-/*------- questions styling------*/
-
-
-.question {
-  height: 30px;
-  margin-top: 15px;
-  padding: 20px;
-  font-size: 12px;
-  border-bottom: 1px solid red;
-  background-color: white;
-  color: slate;
-}
-
-.choose {
-  height: 30px;
-  max-width: 80px;
-  margin-top: 15px;
-  padding: 10px;
-  float: right;
-  text-align: center;
-  font-style: normal;
-  font-size: 10px;
-  border: 1px solid red;
-  border-radius: 5px;
-  background-color: white;
-  color: grey;
-}
-
-.facebook {
-  height: 30px;
-  max-width: 200px;
-  margin-top: 35px;
-  padding: 10px;
-  margin: 0 auto;
-  text-align: center;
-  font-style: normal;
-  font-size: 10px;
-  border: 1px solid red;
-  border-radius: 5px;
-  background-color: white;
-  color: grey;
-}
-
-input[type="file"] {
-    display: none;
-}
-
-.reset {
-  margin-top: 20px;
-  height: 30px;
-  max-width: 150px;
-  margin-top: 50px;
-  padding: 10px;
-  float: right;
-  text-align: center;
-  font-style: normal;
-  font-size: 10px;
-  border: 1px solid red;
-  border-radius: 5px;
-  background-color: white;
-  color: grey;
-}
-
-.delete {
-  margin-top: 20px;
-  height: 30px;
-  max-width: 150px;
-  margin-top: 50px;
-  padding: 10px;
-  float: left;
-  text-align: center;
-  font-style: normal;
-  font-size: 10px;
-  border: 1px solid red;
-  border-radius: 5px;
-  background-color: white;
-  color: grey;
-}
-.btn_image {
-  height: 150px;
-  max-width: 150px;
-  margin: 0 auto;
-  padding: 10px;
-  text-align: center;
-  background-image: url('../images/submit-big.png');
-  background-size: cover;
-  margin-top: 20px;
-}
-
-.home_img {
-  margin: 0 auto;
-  margin-top: 10px;
-  margin-bottom: 20px;
-  background-image: url('../images/circle.png');
-  background-size: cover;
-  height: 300px;
-  max-width: 300px;
-}
-
-input[type="submit"] {
-    display: none;
-}
-
-.popup {
-  max-height: 100px;
-  width: 200px;
-  margin-top: 5px;
-  padding: 10px;
-  margin: 0 auto;
-  text-align: center;
-  font-style: normal;
-  font-size: 10px;
-  border: 1px solid red;
-  border-radius: 5px;
-  background-color: red;
-  color: white;
-}
-.footer {
-  height: 50px;
-  margin-top: 10px;
-  width: 100%;
-  padding-bottom: 50px;
-  border-radius: 0px 0px 10px 10px;
-  background-color: white;
-}
-
-.next {
-  border: 1px solid white;
-  width: 60px;
-  padding: 10px;
-  color: grey;
-  font-size: 10px;
-  margin: 0 auto;
-  text-align: center;
-}
-.submit {
-  max-width: 500px;
-  max-height: 300px;
-  text-align: center;
-  margin: 0 auto;
-  padding: 20px; 
-}
 
 .img-zoom:active {
   border-radius: 80px;
@@ -317,89 +161,3 @@ input[type="submit"] {
     -ms-transition: all 5s ease-out-in;
 }
  
-/*.transition {
-  overflow: visible;
-    -webkit-transform: scale(2); 
-    -moz-transform: scale(2);
-    -o-transform: scale(2);
-    transform: scale(2);
-}*/
-
-
-.gall {
-    float: left;
-    width: 25%;
-    height: 25%;
-    position: relative;
-    border: 1px solid #333;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-.gall img{
-    display: block;
-    width: 100%;
-    height: 100%;
-    -webkit-transition-property: width, height; /* we specify, what properties we need to change*/
-    -webkit-transition-duration: 300ms; /* we specify, with what speed it is necessary to return an image in its initial look*/
-    -moz-transition-property: width, height;
-    -moz-transition-duration: 300ms;
-    -o-transition-property: width, height;
-    -o-transition-duration: 300ms;
-    position: absolute;
-    opacity: 0.3; /* add opacity*/
-    cursor: pointer;
-}
-
-.gall:after {
-    display: block;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    content: "";
-    color: #eaeaea;
-    font-family: "Trebuchet MS";
-    font-size: 16px;
-    opacity: 0.5;
-}
-
-.gall:focus img{
-    width: 250%; /* we increased an image to this size */
-    height: 250%;
-    position: absolute;
-    opacity: 1; /* transparency is not needed */
-    z-index: 1; /* for a photo to enlarge over all images */
-    -moz-box-shadow: 0 0 15px 2px #000;
-    -webkit-box-shadow: 0 0 15px 2px #000;
-    box-shadow: 0 0 15px 2px #000; /* we add some beauty */
-    -webkit-transition-property: width, height; /* we decrease the image */
-    -webkit-transition-duration: 2s; /* we specify, with what speed it is necessary to increase an image */
-    -webkit-transition-delay: 0.3s; /* as a browser will process it, before enlarging a photo */
-    -moz-transition-property: width, height;
-    -moz-transition-duration: 2s;
-    -moz-transition-delay: 0.3s;
-    -o-transition-property:width, height;
-    -o-transition-duration: 2s;
-    -o-transition-delay: 0.3s;
-    cursor: default;
-}
-
-.gall:nth-child(4n+4) img, .gall:nth-child(4n+3) img{
-    right: 0;
-} /* every fourth element starting with 3rd and 4th will be enlarged from the right border of browser window */
-
-.gall:nth-child(n+9) img{
-    bottom: 0;
-} /* all elements, starting with the ninth will begin to enlarge upwards */
-
-.gallery {
-    margin: 0 auto;
-    max-width: 800px;
-    height: 640px;
-    background: white;
-    box-shadow: 0px 0px 15px 1px #333;
-    -webkit-box-shadow: 0px 0px 15px 1px #333;
-    -moz-box-shadow: 0px 0px 15px 1px #333;
-    position: relative;
-
