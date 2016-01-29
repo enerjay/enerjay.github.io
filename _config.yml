@@ -20,5 +20,7 @@ github: enerjay
 linkenin: jhepburnzikalala    
 # Build settings
 markdown: kramdown
-categories: ['Developer', 'Designer']
+categories: 
+- Developer
+- Designer
 
