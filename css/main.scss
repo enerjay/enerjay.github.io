@@ -31,8 +31,8 @@ $on-laptop:        1200px;
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
+//         padding-right: 0px;
+//         padding-left: 0px;
 //     }
 // }
 @mixin media-query($device) {
