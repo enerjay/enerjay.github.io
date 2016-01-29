@@ -16,9 +16,8 @@ url: "http://jhepburn-zikalala.com" # the base hostname & protocol for your site
 github_username: enerjay
 linkedin_username: jhepburnzikalala
 social: 
-    github: enerjay
-    linkenin: jhepburnzikalala
-    
+github: enerjay
+linkenin: jhepburnzikalala    
 # Build settings
 markdown: kramdown
 categories: [Developer, Designer]
