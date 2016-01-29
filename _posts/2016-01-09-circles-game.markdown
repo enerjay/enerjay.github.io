@@ -2,7 +2,7 @@
 layout: post
 title:  "Circles Game"
 date:   2016-01-09 14:38:46 +0000
-categories: Developer
+category: Developer
 img: circle.png
 ---
 ![image](http://enerjay.github.io/img/colour_game_logo_small.png)

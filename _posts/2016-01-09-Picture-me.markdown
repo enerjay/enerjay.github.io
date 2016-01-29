@@ -2,7 +2,7 @@
 layout: post
 title:  "Picture Me"
 date:   2016-01-09 13:38:46 +0000
-categories: Developer
+category: Developer
 img: picture.png
 ---
 ![image](http://enerjay.github.io/img/picture-me-logo-small.png)
