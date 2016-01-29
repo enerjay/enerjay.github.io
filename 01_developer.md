@@ -4,9 +4,7 @@ title: Developer
 permalink: /developer/
 ---
 
-testing
-
-<!-- <div class="home">
+<div class="home">
     <div class="row flex">
         {% for post in site.categories.Developer %}
             <div class="three columns" style="margin-left: 10px;">
@@ -20,4 +18,4 @@ testing
     </div>
 </div>
 
-   -->
+  
