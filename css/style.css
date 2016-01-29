@@ -9,6 +9,13 @@ h1 {
   color: silver;
   font-size: 25px;
 }
+.flex {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+
 .container {
    margin-top: 20px;
    margin-bottom: 0px;
@@ -27,6 +34,7 @@ h1 {
       max-height: 100px;
       max-width: 100%;
       overflow: hidden;
+      
       
 
   }

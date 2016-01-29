@@ -7,9 +7,9 @@ permalink: /developer/
 
 
 <div class="home">
-    <div class="row">
+    <div class="row flex">
         {% for post in site.categories.Developer %}
-            <div class="three columns">
+            <div class="three columns" style="margin-left: 10px;">
                 
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
