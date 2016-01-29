@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: "CenturyGothic", sans-serif;
 $base-font-size:   16px;
@@ -15,8 +13,8 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       grey;
-$background-color: white;
-$brand-color:      #006532;
+$background-color: whitesmoke;
+$brand-color:      #003333;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -33,8 +31,8 @@ $on-laptop:        1200px;
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
+//         padding-right: 0px;
+//         padding-left: 0px;
 //     }
 // }
 @mixin media-query($device) {
