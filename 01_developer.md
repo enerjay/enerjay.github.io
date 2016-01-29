@@ -4,8 +4,6 @@ title: Developer
 permalink: /developer/
 ---
 
-
-
 <div class="home">
     <div class="row flex">
         {% for post in site.categories.Developer %}
