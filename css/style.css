@@ -34,7 +34,7 @@ h1 {
       max-height: 100px;
       max-width: 100%;
       overflow: hidden;
-      
+
       
 
   }
@@ -110,6 +110,12 @@ body { font-family: sans-serif; }
   transition: 8s ease-in;
   transition: 8s ease-out;
   
+}
+.fluid_adj {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .grid {
   width: 500px;
