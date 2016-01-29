@@ -14,7 +14,7 @@ permalink: /developer/
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
                     
-                    <a href="{{ post.url | prepend: site.baseurl }}"><img class="gall:hover" src="../img/portfolio/{{ post.img }}"></a>
+                    <a href="{{ post.url | prepend: site.baseurl }}"><img src="../img/portfolio/{{ post.img }}"></a>
             </div>
         {% endfor %}
     </div>
