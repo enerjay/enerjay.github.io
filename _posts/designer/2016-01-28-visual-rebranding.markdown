@@ -6,3 +6,7 @@ category: designer
 img: brand2.png
 ---
 
+Rebranding of William Morris Sixth Form
+
+![image](http://enerjay.github.io/img/portfolio/wmsf/logo.png)
+
