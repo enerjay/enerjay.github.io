@@ -27,7 +27,6 @@ img: digital.png
        <li><a href="/img/portfolio/digital_art/8.png" rel="lightbox" title=""><img src="/img/portfolio/digital_art/8.png" width="300" height="250"></a></li>
        
        <li><a href="/img/portfolio/digital_art/7.png" rel="lightbox" title=""><img src="/img/portfolio/digital_art/7.png" width="300" height="250"></a></li>
-s
      </ul>
    </div>
    </div>
