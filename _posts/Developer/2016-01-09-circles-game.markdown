@@ -4,7 +4,7 @@ title:  "Circles Game"
 date:   2016-01-09 14:38:46 +0000
 category: developer
 img: circle.png
----
+
 ![image](http://enerjay.github.io/img/colour_game_logo_small.png)
 
 [Circles Game link](http://calm-gorge-4445.herokuapp.com/)
@@ -46,4 +46,6 @@ The game will be very colourful visually however the grid will be on a white bac
 - logos and artwork created in Adobe Illustrator 
 
 ![image](http://enerjay.github.io/img/screen.png)
+
+---
 
