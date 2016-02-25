@@ -23,13 +23,13 @@ JWT
 
 
 
-###Wireframes
+### Wireframes
 
 The wireframes of our website can be found here.
 
 ![image](http://i.imgur.com/1G1KINd.png)
 
-###Vision for the site
+### Vision for the site
 
 We wanted the site to look modern and a little quirky to attract the type of cyclist who would be cycling around and enjoy taking pictures to illustrate their route. This would generally be a young urban cyclist, who would cycle on their commute and maybe plan longer routes in their spare time. 
 
@@ -48,7 +48,7 @@ We created a colorful logo, and have used a dynamic image for the homepage with 
  - A user is able to view the locations of their images on a map
  A user is able to edit their own information
 
-###Achievements
+### Achievements
 
 As a group we began with a much more ambitious outlook, and we were unable to implement some of the features we initally spoke aboout. However, we did implement the following:
 
@@ -57,7 +57,7 @@ As a group we began with a much more ambitious outlook, and we were unable to im
 - pinning images to a map
 
 
-###Aims for the future
+### Aims for the future
 
 We have high aims for what we would like our website to be able to do including:
 
@@ -67,7 +67,7 @@ We have high aims for what we would like our website to be able to do including:
 - Search for #'s within titles. Making the whole site searchable.
 - Ability to upload and view videos.
 
-###Final Product
+### Final Product
 
 This site is fully mobile. It is able to work on screens of all sizes.
 

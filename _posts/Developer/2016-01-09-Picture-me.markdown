@@ -10,7 +10,7 @@ img: picture.png
 [Picture Me link](http://enerjay.github.io/picture-me-frontend/)
 
 
-####Vision for my Site
+#### Vision for my Site
 
 We are all unique, built up of many layers - images, we live our lives with snap shots of our life,  past and
 present. Picture Me is an interactive site whereby the user logs in via facebook and chooses 25 x images that 
@@ -22,7 +22,7 @@ light on an experience which in turn reveals an image.
 The final piece will contain all the visuals that make us unique.
 
 
-####User Stories
+#### User Stories
 
 - A user will be able to login via Facebook
 - A user's facebook profile picture will be used as the main image in the grid.
@@ -30,15 +30,15 @@ The final piece will contain all the visuals that make us unique.
 - A user is able to delete there Picture me in order to start again.
 
 
-####Aims for the future
+#### Aims for the future
 - A user would be able to select the 25 images from their facebook account
 - A user will have the ability to share the finished image
 
 
 
-####App was built using the following:
+#### App was built using the following:
 
-######MEAN Stack
+###### MEAN Stack
 - Mongo
 - Express
 - Angular
@@ -52,12 +52,12 @@ The final piece will contain all the visuals that make us unique.
 - JQuery
 - JQuery Masonry
 
-####Wireframes
+#### Wireframes
 
 ![image](http://enerjay.github.io/img/pm_wireframe.png)
 
 
-####Final Product
+#### Final Product
 
 ![image](http://enerjay.github.io/img/pm_screen.png)
 
