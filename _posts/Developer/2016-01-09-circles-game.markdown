@@ -4,6 +4,7 @@ title:  "Circles Game"
 date:   2016-01-09 14:38:46 +0000
 category: developer
 img: circle.png
+---
 
 ![image](http://enerjay.github.io/img/colour_game_logo_small.png)
 
@@ -47,5 +48,5 @@ The game will be very colourful visually however the grid will be on a white bac
 
 ![image](http://enerjay.github.io/img/screen.png)
 
----
+
 
