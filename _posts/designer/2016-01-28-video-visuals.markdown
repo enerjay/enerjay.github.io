@@ -5,10 +5,8 @@ date:   2016-01-28 16:28:46 +0000
 category: designer
 img: orange.png
 ---
-
-<!-- {% include vimeoPlayer.html id=38004862 %} -->
 <div class="home">
-   
+<h3>The following images are stills taken from my film Enerjay</h3>
 <div class="photos">
      <ul>
 
@@ -78,8 +76,10 @@ img: orange.png
          
          <li><a href="/img/portfolio/visuals/28.png" rel="lightbox" title=""><img src="/img/portfolio/visuals/t_28.png" width="150" height="125"></a></li>
         
-        
+        {% include vimeoPlayer.html id=38004862 %}
          
      </ul>
    </div>
+
    </div>
+   

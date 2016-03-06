@@ -7,6 +7,7 @@ img: art.png
 ---
 
 <div class="home">
+<h3>Drawings and large scale paintings</h3>
    
 <div class="photos">
      <ul>

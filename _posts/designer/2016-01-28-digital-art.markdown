@@ -8,7 +8,7 @@ img: digital.png
 
 
 <div class="home">
-   
+<h3>Mixed media drawings manulipated in Photoshop</h3>
 <div class="photos">
      <ul>
        
