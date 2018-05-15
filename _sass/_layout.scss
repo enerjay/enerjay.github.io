@@ -105,19 +105,19 @@
         .trigger {
             clear: both;
             display: none;
-            margin-top: 10px;
+            margin-top: 5px;
         }
 
         &:hover .trigger {
             display: block;
-            margin-top: 10px;
+            margin-top: 5px;
             // padding-bottom: 5px;
 
         }
 
         .page-link:hover {
             display: block;
-            margin-top: 10px;
+            margin-top: 5px;
             // padding: 5px;
 
             &:not(:last-child) {
