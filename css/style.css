@@ -1,6 +1,6 @@
 body {
   background-color: black;
- 
+
   height:100%;
   background-size: 5px 5px;
 }
@@ -46,19 +46,19 @@ h1 {
       max-width: 100%;
       overflow: hidden;
 
-      
+
 
   }
 }
 
-.embed-container { 
-  position: relative; 
- /* padding-bottom: 56.25%;*/ 
-  height: 100%; 
-  overflow: hidden; 
-  max-width: 100%; 
-  } 
-  .embed-container iframe, .embed-container object, .embed-container embed { 
+.embed-container {
+  position: relative;
+ /* padding-bottom: 56.25%;*/
+  height: 100%;
+  overflow: hidden;
+  max-width: 100%;
+  }
+  .embed-container iframe, .embed-container object, .embed-container embed {
     position: absolute; top: 0; left: 0; max-width: 500px; max-height: 281px; }
 
 
@@ -97,19 +97,19 @@ h1 {
 /*#nav {
  margin: 0 0 0 0;
 }
- 
+
 #nav ul li {
  display: inline;
- margin: 0 0 10px 0; 
+ margin: 0 0 10px 0;
 }
- 
+
 #nav a {
  text-decoration: none;
  font-size: 15px;
  padding: 0 20px 0 0;
  color: black;
 }
- 
+
 #nav a:hover {
  color: silver;
 }
@@ -125,11 +125,11 @@ h1 {
 
 .img_grid {
   max-height: 100px;
-  max-width: 100px; 
+  max-width: 100px;
 }
 .opacity {
-  opacity: 0.2;
-  
+  opacity: 0.1;
+
 }
 
 * {
@@ -151,19 +151,19 @@ body { font-family: sans-serif; }
   transition: opacity 5s linear;
   transition: 5s ease-in;
   transition: 5s ease-out;
-  
+
 }
 .img-bigger:hover{
- 
+
   -webkit-transform: scale(2.5);
   -moz-transform: scale(2.5);
   -ms-transform: scale(2.5);
   -o-transform: scale(2.5);
   transform: scale(2.5);
-  
+
   transition: 8s ease-in;
   transition: 8s ease-out;
-  
+
 }
 .fluid_adj {
   margin-right: auto;
@@ -176,12 +176,12 @@ body { font-family: sans-serif; }
   max-height: 500px;
   background-color: transparent;
   margin: 0 auto;
-  background-image: url('/img/grid/logo_grid.png'); 
+  background-image: url('/img/grid/logo_grid.png');
 
   position: relative;
   background-repeat:no-repeat;
   background-size:contain;
-  background-position:center; 
+  background-position:center;
 }
 .grid-item {
   max-height: 100px;
@@ -192,14 +192,14 @@ body { font-family: sans-serif; }
   /*border: 1px solid ghostwhite;*/
   size:contain;
   background-position:center;
-  
+
 }
-.grid-item:hover { 
+.grid-item:hover {
   overflow: visible;
   border: 0px solid ghostwhite;
   max-height: 300px;
   width: 100%;
-  opacity: 1;  
+  opacity: 1;
 }
 
   .grid-item--width2 { width: 320px; }
@@ -228,4 +228,3 @@ body { font-family: sans-serif; }
     -o-transition: all 5s ease-out-in;
     -ms-transition: all 5s ease-out-in;
 }
- 

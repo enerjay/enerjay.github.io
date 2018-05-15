@@ -7,18 +7,16 @@
 
 # Site settings
 title: Jayne Hepburn Zikalala
-email: enerjay@gmail.com
+email: jayne@jhzdesigndev.com
 description: > # this means to ignore newlines until "baseurl:"
-  Front End Web Developer/Designer
+  Front end Designer/Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jhepburn-zikalala.com" # the base hostname & protocol for your site
 
 github_username: enerjay
 linkedin_username: jhepburnzikalala
-social: 
+social:
   github: enerjay
-  linkenin: jhepburnzikalala    
+  linkenin: jhepburnzikalala
 # Build settings
 markdown: kramdown
-
-
