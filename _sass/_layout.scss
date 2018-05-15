@@ -65,7 +65,7 @@
         // color: $text-color;
         line-height: $base-line-height;
         text-decoration: none;
-        font-size: 2opx;
+        font-size: 20px;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -85,6 +85,7 @@
 
         .menu-icon {
             display: block;
+            margin-top: 15px;
             float: right;
             width: 36px;
             height: 26px;
@@ -105,12 +106,12 @@
         .trigger {
             clear: both;
             display: none;
-            margin-top: 5px;
+            margin-top: 15px;
         }
 
         &:hover .trigger {
             display: block;
-            margin-top: 5px;
+            margin-top: 15px;
             // padding-bottom: 5px;
 
         }
