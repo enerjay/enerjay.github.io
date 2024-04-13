@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjayne_site=self.webpackChunkjayne_site||[]).push([[691],{7200:function(e,t,n){n.r(t),n.d(t,{Head:function(){return i}});var s=n(7294);const a={color:"#e8e8e8",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};t.default=()=>s.createElement("main",{style:a},"Site in Development");const i=()=>s.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-9f282fd15db393b7f156.js.map
