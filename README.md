@@ -1,1 +1,1 @@
-enerjay.github.io
+enerjay
